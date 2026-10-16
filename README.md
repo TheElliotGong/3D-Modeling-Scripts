@@ -11,8 +11,3 @@
 |---|---|---|
 | `Blender/skin_weight_tools.py` | "Skin Weight Tools" add-on v1.0.0 — Maya-style influence locks, component editor, hammer, prune, mirror, transfer (N-panel > Skin Weights) | `Downloads/blender_skin_weights_plugin_maya_style.zip` |
 | `Blender/skin_weight_tools_addon.zip` | Same add-on, installable zip (Edit > Preferences > Add-ons > Install from Disk) | same |
-
-## Not found on this PC
-snapTools.py, add_leaf_joints.py, the Maya UV Toolkit Blender port, and the Maya skin weight export/import scripts
-were not in Documents, Downloads, OneDrive\Documents\maya, OneDrive\Desktop\Maya Projects, the Blender
-user folders, or Google Drive. They likely only exist in past Claude chats.
